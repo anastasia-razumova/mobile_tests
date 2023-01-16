@@ -52,7 +52,7 @@ gradle clean test
 значок *Allure Report*, кликнув по которому, откроется страница с сформированным html-отчетом.
 
 <p align="center">
-  <img src="images/all3.png" alt="allure" width="800">
+  <img src="images/allure_report4.png" alt="allure" width="800">
 </p>
 
 
@@ -60,7 +60,7 @@ gradle clean test
 ## <img width="4%" title="Allure Report" src="images/Allure.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/hw_mobile/allure/):
 
 <p align="center">
-  <img src="images/allure_report4.png" alt="jenk" width="900">
+  <img src="images/all4.png" alt="jenk" width="900">
 </p>
 
 ## :video_camera: Видео пример 
